@@ -4,6 +4,7 @@ homePath="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 workPath=$PWD
 echo work dir [$homePath] [$workPath]
 
+export GO111MODULE=on
 export GOPATH=$homePath/
 export GOROOT=$GOPATH/go
 
