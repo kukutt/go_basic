@@ -5,5 +5,5 @@ import (
 )
 
 func Printtest()  {
-    fmt.Println("test V0.8.8\r\n");
+    fmt.Println("test V0.8.9\r\n");
 }
