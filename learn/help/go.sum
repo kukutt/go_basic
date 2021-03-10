@@ -1,0 +1,6 @@
+github.com/kukutt/go_basic v0.0.0-20210310153929-54736a5f83bb h1:JIIn4tc9Nm/SYJYXUNG06TqdfozRiyAwOOwaxuyY+OQ=
+github.com/kukutt/go_basic v0.0.0-20210310153929-54736a5f83bb/go.mod h1:qGt3PJ4S/FbDB8e2HCo5gu6Q11+q5Sm5FVs/7ajxhp8=
+github.com/kukutt/go_basic v0.0.0-20210310155506-9f9e5db14c1a h1:iyeMD9aOT/p94w+SCxyqHycz8p/5EbdojuTlkH+iO/Q=
+github.com/kukutt/go_basic v0.0.0-20210310155506-9f9e5db14c1a/go.mod h1:qGt3PJ4S/FbDB8e2HCo5gu6Q11+q5Sm5FVs/7ajxhp8=
+github.com/swxctx/xlog v0.0.0-20200617113404-90cdad0cb8aa h1:xcv/kFDuweWuqJ+l7DsHp66zZyGsWV67co7+0pncU5A=
+github.com/swxctx/xlog v0.0.0-20200617113404-90cdad0cb8aa/go.mod h1:1iTMvlNk25Pw/ZaOXqa6s3h1YDUQkTUsXyMDxwAdIUI=
