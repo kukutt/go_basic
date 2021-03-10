@@ -5,9 +5,9 @@ import (
 )
 /* 结构体 */
 type Power struct{
-    age int
-    high int
-    name string
+    Age int
+    High int
+    Name string
 }
 
 func Printtest()  {
