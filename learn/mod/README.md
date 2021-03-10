@@ -11,7 +11,7 @@ go get 下载指定包
 go get -u github.com/kukutt/go_basic/test
 # 指定版本
 go get github.com/kukutt/go_basic/test@a340a6b5119
-```python
+```
 go mod tidy 整理全部包
 
 ## 下载依赖包到本地目录
